@@ -1,0 +1,20 @@
+{
+    "id": 383,
+    "password": "Free to Copy",
+    "name": "Resilience",
+    "author": "CrabbyCrab101",
+    "creators": [],
+    "verifier": "CrabbyCrab101",
+    "verification": "https://youtu.be/D-Z7ElNYDC4",
+    "showcase": "https://youtu.be/D-Z7ElNYDC4",
+    "percentToQualify": 73,
+    "difficulty": "Insane Demon",    
+    "records": [  
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/FM85Y0JzKlo",
+          "hz": 360,
+          "percent": 100
+        } 
+    ]
+}

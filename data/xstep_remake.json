@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "password": "Free to Copy",
+    "name": "xStep Remake",
+    "author": "TheRealCave",
+    "creators": [],
+    "verifier": "TheRealCave",
+    "verification": "https://youtu.be/MVOaZmdMCWE",
+    "showcase": "https://youtu.be/MVOaZmdMCWE",
+    "percentToQualify": 100,
+    "difficulty": "Easy Demon",    
+    "records": [   
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/THHPV81lU6w",
+          "hz": 360,
+          "percent": 100
+      },
+      {
+          "user": "CrabbyCrab101",
+          "link": "https://www.youtube.com/watch?v=t_x6pajW79A",
+          "hz": 240,
+          "percent": 100
+      },
+      {
+          "user": "StolenBurrito",
+          "link": "https://www.youtube.com/watch?v=76TUFGNxqEw",
+          "hz": 360,
+          "percent": 100
+      },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/Mxs_MOwAGMU",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 174,
+    "password": "Free to Copy",
+    "name": "Torture Chamber",
+    "author": "AvaTheAlleyCat",
+    "creators": [],
+    "verifier": "spino",
+    "verification": "https://www.youtube.com/watch?v=tY2GTjTtXZc",
+    "showcase": "https://www.youtube.com/watch?v=tY2GTjTtXZc",
+    "percentToQualify": 55,
+    "difficulty": "Extreme Demon",  
+    "records": [ 
+        {
+          "user": "nebnoob",
+          "link": "https://www.youtube.com/watch?v=puKy1n6egww&ab_channel=nebnoobgeometrydash",
+          "hz": 360,
+          "percent": 100
+        }    
+    ]
+}

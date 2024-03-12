@@ -1,0 +1,20 @@
+{
+    "id": 318,
+    "password": "Free to Copy",
+    "name": "Flicker",
+    "author": "TheRealCave",
+    "creators": [],
+    "verifier": "TheRealCave",
+    "verification": "https://youtu.be/mXgO5DA3TSA",
+    "showcase": "https://youtu.be/mXgO5DA3TSA",
+    "percentToQualify": 72,
+    "difficulty": "Insane Demon",  
+    "records": [
+     {
+          "user": "nebnoob",
+          "link": "https://youtu.be/cA9Y6TsYwMM",
+          "hz": 360,
+          "percent": 100
+     }
+    ]
+}

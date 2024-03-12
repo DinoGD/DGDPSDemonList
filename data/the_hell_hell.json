@@ -1,0 +1,20 @@
+{
+    "id": 252,
+    "password": "Free to Copy",
+    "name": "The Hell Hell",
+    "author": "nebnoob",
+    "creators": [],
+    "verifier": "nebnoob",
+    "verification": "https://youtu.be/VRkhVF0TJJg",
+    "showcase": "https://youtu.be/VRkhVF0TJJg",
+    "percentToQualify": 56,
+    "difficulty": "Extreme Demon",  
+    "records": [ 
+      {
+        "user": "CrabbyCrab101",
+        "link": "https://www.youtube.com/watch?v=GBO5etiUh7Q&ab_channel=Dino",
+        "hz": 240,
+        "percent": 100
+      }
+    ]
+}

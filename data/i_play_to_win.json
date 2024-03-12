@@ -1,0 +1,38 @@
+{
+    "id": 384,
+    "password": "Free to Copy",
+    "name": "I play to Win",
+    "author": "ho4",
+    "creators": [],
+    "verifier": "BABA",
+    "verification": "https://youtu.be/RzALhoGYcyc",
+    "showcase": "https://youtu.be/RzALhoGYcyc",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [ 
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/SOmiJ3BpBVs",
+          "hz": 360,
+          "percent": 100
+     },
+     {
+          "user": "CrabbyCrab101",
+          "link": "https://youtu.be/HZ89MWVW-j8",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "StolenBurrito",
+          "link": "https://www.youtube.com/watch?v=00ysVCQew9Q",
+          "hz": 360,
+          "percent": 100
+      },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/RN9__2-7fzk",
+          "hz": 360,
+          "percent": 100
+     }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 457,
+    "password": "Free to Copy",
+    "name": "GROLILLA2",
+    "author": "LOTAAAAAAADDD",
+    "creators": [],
+    "verifier": "LOTAAAAAAADDD",
+    "verification": "https://www.youtube.com/watch?v=QLIzSw-QhWA&ab_channel=LOTAAAAAAADDD",
+    "showcase": "https://youtu.be/D-Z7ElNYDC4",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [  
+        {
+          "user": "Dino",
+          "link": "https://youtu.be/QovgT2Xa-lc",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/UDQ5-cyg_ho",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/ZvQKCwd92Ik",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

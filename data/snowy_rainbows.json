@@ -1,0 +1,32 @@
+{
+    "id": 456,
+    "password": "Free to Copy",
+    "name": "Snowy Rainbows",
+    "author": "xzchixz",
+    "creators": [],
+    "verifier": "xzchixz",
+    "verification": "https://www.youtube.com/watch?v=VXj5eRWMnxU&ab_channel=chi.",
+    "showcase": "https://youtu.be/4MEs99mqndI",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [ 
+        {
+          "user": "Dino",
+          "link": "https://www.youtube.com/watch?v=GBO5etiUh7Q&ab_channel=Dino",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/UDQ5-cyg_ho",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/fGMQ5q1KpOU",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

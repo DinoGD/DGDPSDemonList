@@ -51,6 +51,12 @@
           "link": "https://www.youtube.com/watch?v=mkDONCbFRWM",
           "hz": 60,
           "percent": 100
-     }
+     },
+     {
+          "user": "Dino",
+          "link": "https://youtu.be/63Dtr0owvqw",
+          "hz": 360,
+          "percent": 100
+     }        
     ]
 }

@@ -122,7 +122,7 @@ export default {
                     <p>
                       7・Megahack/Hackermode users are REQUIRED to have Cheat Indicator, FPS and CPS counter activated. This rule mostly applies for Hard Demons and above.
                     </p>
-                        <p class="type-label-md">Website layout made by <a href="https://me.redlimerl.com/" target="_blank">The Shitty List</a></p>                    
+                        <p class="type-label-md">Website layout made by <a href="https://me.redlimerl.com/" target="_blank">TheShittyList</a></p>                    
                 </div>
             </div>
         </main>

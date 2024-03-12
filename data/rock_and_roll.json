@@ -10,5 +10,11 @@
     "percentToQualify": 68,
     "difficulty": "Extreme Demon",    
     "records": [  
+      {
+        "user": "spino",
+        "link": "https://youtu.be/xb0eng02fo0",
+        "hz": 144,
+        "percent": 71
+      }         
     ]
 }

@@ -13,5 +13,11 @@
     "percentToQualify": 100,
     "difficulty": "Hard Demon",  
     "records": [   
+      {
+        "user": "Dino",
+        "link": "https://www.youtube.com/watch?v=uE1Q6e7lMbk&ab_channel=Dino",
+        "hz": 360,
+        "percent": 100
+      }           
     ]
 }

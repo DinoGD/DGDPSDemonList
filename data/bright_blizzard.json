@@ -16,6 +16,12 @@
     "showcase": "https://www.youtube.com/watch?v=ojQaMiwi5Qw",
     "percentToQualify": 71,
     "difficulty": "Insane Demon",  
-    "records": [     
+    "records": [
+        {
+          "user": "BABA",
+          "link": "https://youtu.be/OWhev6cfzAs?si=ROFi8LzOi1AYLEU_",
+          "hz": 120,
+          "percent": 100
+     }    
     ]
 }

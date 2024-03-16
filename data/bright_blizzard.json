@@ -17,17 +17,17 @@
     "percentToQualify": 71,
     "difficulty": "Insane Demon",  
     "records": [
-    {
+     {
           "user": "BABA",
           "link": "https://youtu.be/OWhev6cfzAs?si=ROFi8LzOi1AYLEU_",
           "hz": 120,
           "percent": 100
      },
-    {
+     {
           "user": "nebnoob",
           "link": "https://youtu.be/l1KZ5qtlaiQ",
           "hz": 720,
           "percent": 100
-     }
+      }
     ]
 }

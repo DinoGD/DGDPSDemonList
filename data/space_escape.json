@@ -10,5 +10,11 @@
     "percentToQualify": 100,
     "difficulty": "Medium Demon",    
     "records": [ 
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     }
     ]
 }

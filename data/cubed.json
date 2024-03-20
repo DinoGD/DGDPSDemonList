@@ -9,6 +9,12 @@
     "showcase": "https://www.youtube.com/watch?v=LJ5IAoX9cG4",
     "percentToQualify": 47,
     "difficulty": "Extreme Demon",  
-    "records": [  
+    "records": [
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=2OzSeq-q8hA",
+          "hz": 240,
+          "percent": 100
+     }
     ]
 }

@@ -21,6 +21,12 @@
           "link": "https://www.youtube.com/watch?v=ZyKe_GO0iAs",
           "hz": 240,
           "percent": 100
-     }
+     },
+     {
+          "user": "Dino",
+          "link": "https://youtu.be/AsfHz3lrZVY?si=QkALJGEXuFrtJme1",
+          "hz": 240,
+          "percent": 100
+     }        
     ]
 }

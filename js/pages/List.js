@@ -42,9 +42,10 @@ export default {
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
-                        <li>
+<li v-if="selected + 1 <= 150">
                             <div class="type-title-sm">Points:</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p v-if="selected + 1 <= 75">{{ score(selected + 1, level.percentToQualify, level.percentToQualify) }} (100% = {{ score(selected + 1, 100, level.percentToQualify) }})</p>
+                            <p v-else>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID:</div>

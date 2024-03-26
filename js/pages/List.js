@@ -64,7 +64,7 @@ export default {
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> to qualify</p>
                     <p v-else>This level does not accept new records.</p>
-                    <table class="records" style="background-color: #e8e8e8; border-radius: 20px; padding: 36px">
+                    <table class="records" style="background-color: #e8e8e8; border-radius: 40px; padding: 20px">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>

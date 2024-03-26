@@ -64,7 +64,7 @@ export default {
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> to qualify</p>
                     <p v-else>This level does not accept new records.</p>
-                    <table class="records" style="background-color: #e8e8e8; border-radius: 8px; padding: 8px">
+                    <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
@@ -92,7 +92,7 @@ export default {
                     </div>
                     <template v-if="editors">
                         <h3>List Staff:</h3>
-                        <ol class="editors" style="background-color: #e8e8e8; border-radius: 12px; padding: 16px">
+                        <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>

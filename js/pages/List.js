@@ -92,7 +92,7 @@ export default {
                     </div>
                     <template v-if="editors">
                         <h3>List Staff:</h3>
-                        <ol class="editors" style="background-color: #e8e8e8; border-radius: 10px; padding: 8px">
+                        <ol class="editors" style="background-color: #e8e8e8; border-radius: 12px; padding: 8px">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>

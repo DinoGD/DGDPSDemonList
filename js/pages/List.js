@@ -24,9 +24,11 @@ export default {
             <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
-                        <td class="rank">
-                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
-                            <p v-else class="type-label-lg">Legacy</p>
+                    <td class="rank">
+                    <p v-if="i + 1 === 1" class="type-label-lg" class="top1">#{{ i + 1 }}</p>
+                    <p v-else-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
+                    <p v-else-if="i + 1 <= 150" class="extended">#{{ i + 1 }}</p>
+                    <p v-else="i + 1 > 150" class="type-label-lg" class="legacy">–</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
@@ -40,32 +42,47 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <div class="packs" v-if="level.packs.length > 0">
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">
+                            <p>{{pack.name}}</p>
+                        </div>
+                    </div>
+                    <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
-                        <li>
-                            <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                        <li v-if="selected + 1 <= 150">
+                            <div class="type-title-sm">Points:</div>
+                            <p v-if="selected + 1 <= 75">{{ score(selected + 1, level.percentToQualify, level.percentToQualify) }} (100% = {{ score(selected + 1, 100, level.percentToQualify) }})</p>
+                            <p v-else>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <div class="type-title-sm">ID:</div>
+                            <p class="type-label-lg">{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Password:</div>
+                            <p>{{ level.password || 'Free Copy' }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Difficulty:</div>
+                            <p>{{ level.difficulty || 'Demon' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
+                    <p class="extended"><b>{{ level.records.length }}</b> records registered</p>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
+                    <p v-else-if="selected + 1 <= 150"><strong>100%</strong> to qualify</p>
+                    <p v-else>You may submit a record for this level, but no list points will be awarded.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
-                                <p>{{ record.percent }}%</p>
+                                <p v-if="record.percent == 100"><b>{{ record.percent }}%</b></p>
+                                <p v-else>{{ record.percent }}%</p>
                             </td>
                             <td class="user">
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                            </td>
+                            <td class="legacy">
+                                <img v-if="record.legacy" :src="\`/assets/legacy.svg\`" alt="Legacy" title="Legacy Record">
                             </td>
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
@@ -85,11 +102,24 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
-                    <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                    <div class="dark-bg">
+                    <h2>Changelog:</h2>
+                    <br>
+                    <p class="extended">February 13 2024</p>
+                    <br><br>
+                    <p><button class="btn-no-cover" @click="selected = 113">Khaotic Planet</button> has been placed at <b>#114</b>, above crestfallen and below Chromatic Meteor.<br><br>This change pushes DirtyPaws into the Legacy list.</p>
                     </div>
-                    <template v-if="editors">
-                        <h3>List Editors</h3>
+                    <div class="dark-bg">
+                    <h2>Guidelines</h2>
+                    <br>
+                    <p>Every action is conducted in accordance with our guidelines. In order to guarantee a consistent experience, make sure to verify them before submitting a record!</p>
+                    <br><br>
+                    <a class="btngl" href="/extended-page/rules.html">Guidelines Page</a>
+                    </div>
+                    <div class="dark-bg" v-if="editors">
+                    <br>
+                        <h3>List Staff:</h3>
+                        <br>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -97,32 +127,16 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                    </template>
-                    <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
+                    </div>
+                    <div class="og">
+                        <iframe class="discord-box" src="https://discord.com/widget?id=866826240476053514&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                    </div>
+                    <div class="og" class="dark-bg">
+                        <p>All credit goes to <a href="https://tsl.pages.dev/#/" target="_blank">TSL</a>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
+                    </div>
+                    <button class="btngl" @click="selected = 0">#1 Demon</button>
+                    <button class="btngl" @click="selected = 75">Extended</button>
+                    <button class="btngl" @click="selected = 150">Legacy</button>
                 </div>
             </div>
         </main>

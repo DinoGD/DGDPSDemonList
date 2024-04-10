@@ -8,6 +8,12 @@
     "verification": "https://youtu.be/PedhGL-3tKQ",
     "percentToQualify": 100,
     "difficulty": "Easy Demon",  
-    "records": [      
+    "records": [
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/oVhL6Tf11lw",
+          "hz": 240,
+          "percent": 100
+     }
     ]
 }

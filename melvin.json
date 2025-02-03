@@ -1,0 +1,68 @@
+{
+    "id": 155,
+    "password": "Free to Copy",
+    "name": "melvin",
+    "author": "speedy",
+    "creators": [],
+    "verifier": "speedy",
+    "verification": "https://youtu.be/iqvqLbEPA2k",
+    "showcase": "https://youtu.be/iqvqLbEPA2k",
+    "percentToQualify": 100,
+    "difficulty": "Easy Demon",    
+    "records": [
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/5_ZWoXUVhEc",
+          "hz": 240,
+          "percent": 100
+        },
+        {
+          "user": "RedMurder",
+          "link": "https://youtu.be/zAw8Fx-Xi1s",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/T4BId4ato34",
+          "hz": 360,
+          "percent": 100
+        },
+       {
+          "user": "SAINT NICHOLE",
+          "link": "https://youtu.be/FdqtLEhF9WA",
+          "hz": 360,
+          "percent": 100
+     },
+       {
+          "user": "kasiaUwU",
+          "link": "https://youtube.com/live/4h6Gho80CuM?feature=share",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "Enzymerz",
+          "link": "https://www.youtube.com/watch?v=Tqw7vdRCyyU",
+          "hz": 60,
+          "percent": 100
+     },
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/uMaencZZH7I",
+          "hz": 360,
+          "percent": 100
+     },
+      {
+          "user": "CrabbyCrab101",
+          "link": "https://www.youtube.com/watch?v=t_x6pajW79A",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/0onOTtd6xP0",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

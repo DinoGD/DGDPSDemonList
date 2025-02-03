@@ -1,0 +1,19 @@
+{
+    "id": 331,
+    "password": "Free to Copy",
+    "name": "buffstep but harder",
+    "author": "nebnoob",
+    "creators": [],
+    "verifier": "nebnoob",
+    "verification": "https://youtu.be/i8sdeaBVSy4",
+    "percentToQualify": 53,
+    "difficulty": "Extreme Demon",  
+    "records": [  
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/xdzo390M38Y",
+          "hz": 240,
+          "percent": 100
+        }      
+    ]
+}

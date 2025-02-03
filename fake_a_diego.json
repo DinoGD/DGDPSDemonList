@@ -1,0 +1,26 @@
+{
+    "id": 134,
+    "password": "Free to Copy",
+    "name": "Fake A Diego",
+    "author": "AvaTheCat",
+    "creators": [],
+    "verifier": "AvaTheCat",
+    "verification": "https://youtu.be/tIQ34USnztA",
+    "showcase": "https://youtu.be/tIQ34USnztA",
+    "percentToQualify": 61,
+    "difficulty": "Extreme Demon",  
+    "records": [
+      {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/YE7uL6En-l4",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "Enzymerz",
+          "link": "https://www.youtube.com/watch?v=JdF8cu-GZJQ",
+          "hz": 60,
+          "percent": 100
+        }
+    ]
+}

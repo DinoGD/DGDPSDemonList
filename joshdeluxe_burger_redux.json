@@ -1,0 +1,44 @@
+{
+    "id": 176,
+    "password": "Free to Copy",
+    "name": "JoshDeluxe Burger Redux",
+    "author": "Stellarum",
+    "creators": [],
+    "verifier": "Stellarum",
+    "verification": "https://youtu.be/m-Ge5VHxcLA",
+    "showcase": "https://www.youtube.com/watch?v=NDWCBapaijY",
+    "percentToQualify": 70,
+    "difficulty": "Insane Demon",    
+    "records": [
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/8fdHISXx910",
+          "hz": 240,
+          "percent": 100
+        },
+        {
+          "user": "RedMurder",
+          "link": "https://youtu.be/M3PFKH2hYEw",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/T4BId4ato34",
+          "hz": 360,
+          "percent": 100
+        },
+       {
+          "user": "SAINT NICHOLE",
+          "link": "https://youtu.be/FdqtLEhF9WA",
+          "hz": 360,
+          "percent": 100
+     },
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/RNWEl0htN40",
+          "hz": 360,
+          "percent": 100
+     }   
+    ]
+} 

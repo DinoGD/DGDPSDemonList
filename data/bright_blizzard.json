@@ -1,0 +1,38 @@
+{
+    "id": 694,
+    "password": "Free to Copy",
+    "name": "Bright Blizzard",
+    "author": "thuddingpizza",
+    "creators": [
+    "thuddingpizza",
+    "JimIsBad",
+    "R3dst0n",
+    "Windows5",
+    "radiosilent",
+    "TheOnlyMasek006"   
+    ],
+    "verifier": "thuddingpizza",
+    "verification": "https://www.youtube.com/watch?v=ojQaMiwi5Qw",
+    "percentToQualify": 71,
+    "difficulty": "Insane Demon",  
+    "records": [
+     {
+          "user": "BABA",
+          "link": "https://youtu.be/OWhev6cfzAs?si=ROFi8LzOi1AYLEU_",
+          "hz": 120,
+          "percent": 100
+     },
+     {
+          "user": "nebnoob",
+          "link": "https://youtu.be/l1KZ5qtlaiQ",
+          "hz": 720,
+          "percent": 100
+      },
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

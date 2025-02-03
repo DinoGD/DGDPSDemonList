@@ -1,0 +1,19 @@
+{
+    "id": 690,
+    "password": "Free to Copy",
+    "name": "BLEACH",
+    "author": "thuddingpizza",
+    "creators": [],
+    "verifier": "thuddingpizza",
+    "verification": "https://youtu.be/O_wpFUlNwUE?si=mXsbh5NX7cwV4xPq",
+    "percentToQualify": 100,
+    "difficulty": "Hard Demon",  
+    "records": [
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

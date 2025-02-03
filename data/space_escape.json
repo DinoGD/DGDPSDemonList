@@ -1,0 +1,20 @@
+{
+    "id": 689,
+    "password": "Free to Copy",
+    "name": "Space Escape",
+    "author": "thuddingpizza",
+    "creators": [],
+    "verifier": "thuddingpizza",
+    "verification": "https://www.youtube.com/watch?v=rpH8jlNirNM",
+    "showcase": "https://www.youtube.com/watch?v=rpH8jlNirNM",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [ 
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

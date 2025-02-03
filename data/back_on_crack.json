@@ -1,0 +1,61 @@
+{
+    "id": 147,
+    "password": "Free to Copy",
+    "name": "Back on Crack",
+    "author": "BloodLust",
+    "creators": [],
+    "verifier": "BloodLust",
+    "verification": "https://www.youtube.com/watch?v=hsNu0aUxxg0&ab_channel=Av1OficialGD",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/m40VGhjyth0",
+          "hz": 240,
+          "percent": 100
+        },
+       {
+          "user": "RedMurder",
+          "link": "https://youtu.be/zAw8Fx-Xi1s",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/T4BId4ato34",
+          "hz": 360,
+          "percent": 100
+        },
+       {
+          "user": "SAINT NICHOLE",
+          "link": "https://youtu.be/FdqtLEhF9WA",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "kasiaUwU",
+          "link": "https://www.youtube.com/live/wOG--7m9LF8?feature=share",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/uMaencZZH7I",
+          "hz": 360,
+          "percent": 100
+     },
+      {
+          "user": "CrabbyCrab101",
+          "link": "https://www.youtube.com/watch?v=t_x6pajW79A",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "Dino",
+          "link": "https://youtu.be/MD5C6VrKvzc",
+          "hz": 240,
+          "percent": 100
+     }         
+    ]
+}

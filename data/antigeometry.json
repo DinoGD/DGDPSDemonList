@@ -1,0 +1,37 @@
+{
+    "id": 379,
+    "password": "Free to Copy",
+    "name": "Antigeometry",
+    "author": "BABA",
+    "creators": [],
+    "verifier": "BABA",
+    "verification": "https://youtu.be/zmL5ctnz1mo",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/SOmiJ3BpBVs",
+          "hz": 360,
+          "percent": 100
+     },
+     {
+          "user": "CrabbyCrab101",
+          "link": "https://youtu.be/HZ89MWVW-j8",
+          "hz": 240,
+          "percent": 100
+     },
+      {
+          "user": "StolenBurrito",
+          "link": "https://www.youtube.com/watch?v=jxSSBTEkRSo",
+          "hz": 360,
+          "percent": 100
+      },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/Q-JhCx0bV3Y",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

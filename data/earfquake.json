@@ -1,0 +1,35 @@
+{
+    "id": 650,
+    "password": "Free to Copy",
+    "name": "earfquake",
+    "author": "CrabbyCrab101",
+  "creators": [
+  "CrabbyCrab101",
+  "Sai"
+  ],
+    "verifier": "CrabbyCrab101",
+    "verification": "https://youtu.be/leseVF73cm0?si=vNn4sSw_jAKOkdpx",
+    "showcase": "https://www.youtube.com/watch?v=R1O-vnXA1AY",
+    "percentToQualify": 100,
+    "difficulty": "Hard Demon",  
+    "records": [   
+      {
+        "user": "Dino",
+        "link": "https://www.youtube.com/watch?v=uE1Q6e7lMbk&ab_channel=Dino",
+        "hz": 360,
+        "percent": 100
+      },
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     },
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/oVhL6Tf11lw",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

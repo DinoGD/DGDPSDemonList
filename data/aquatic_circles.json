@@ -1,0 +1,61 @@
+{
+    "id": 201,
+    "password": "Free to Copy",
+    "name": "Aquatic Circles",
+    "author": "nebnoob",
+    "creators": [],
+    "verifier": "nebnoob",
+    "verification": "https://youtu.be/TubWKe1N6_4",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",    
+    "records": [ 
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/2EkvJS4VFx8",
+          "hz": 240,
+          "percent": 100
+        },
+        {
+          "user": "RedMurder",
+          "link": "https://youtu.be/zAw8Fx-Xi1s",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/T4BId4ato34",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "Rigel",
+          "link": "https://drive.google.com/file/d/1-Pp8B5tVq9oJ44dkClJxpUpq3AJGq6GK/view?usp=sharing",
+          "hz": 360,
+          "percent": 100
+        },
+              {
+          "user": "SAINT NICHOLE",
+          "link": "https://youtu.be/FdqtLEhF9WA",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "kasiaUwU",
+          "link": "https://www.youtube.com/live/-wNF7BzCvSo?feature=share",
+          "hz": 240,
+          "percent": 100
+     },
+        {
+          "user": "Enzymerz",
+          "link": "https://www.youtube.com/watch?v=mkDONCbFRWM",
+          "hz": 60,
+          "percent": 100
+     },
+     {
+          "user": "Dino",
+          "link": "https://youtu.be/63Dtr0owvqw",
+          "hz": 360,
+          "percent": 100
+     }        
+    ]
+}

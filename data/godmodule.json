@@ -1,0 +1,62 @@
+{
+    "id": 149,
+    "password": "Free to Copy",
+    "name": "godmodule",
+    "author": "spino",
+    "creators": [],
+    "verifier": "spino",
+    "verification": "https://youtu.be/0BhhxXePL4A",
+    "showcase": "https://youtu.be/0BhhxXePL4A",
+    "percentToQualify": 100,
+    "difficulty": "Hard Demon",    
+    "records": [
+        {
+          "user": "Dino",
+          "link": "https://youtu.be/b1sc7kM794M",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/2EkvJS4VFx8",
+          "hz": 240,
+          "percent": 100
+        },
+        {
+          "user": "RedMurder",
+          "link": "https://www.youtube.com/watch?v=ApjK7EB-a3E",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/T4BId4ato34",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/5NL81of6MbI",
+          "hz": 360,
+          "percent": 100
+        },
+       {
+          "user": "SAINT NICHOLE",
+          "link": "https://youtu.be/FdqtLEhF9WA",
+          "hz": 360,
+          "percent": 100
+     },
+      {
+          "user": "AlphaStar12",
+          "link": "https://youtu.be/QJS_a41Y0UU",
+          "hz": 165,
+          "percent": 100
+     },
+      {
+          "user": "BABA",
+          "link": "https://youtu.be/Zb6glc-RwSM",
+          "hz": 120,
+          "percent": 100
+     }      
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 467,
+    "password": "Free to Copy",
+    "name": "Casual",
+    "author": "Lightshade",
+    "creators": [],
+    "verifier": "Lightshade",
+    "verification": "https://www.youtube.com/watch?v=JpSYy0k0uPQ",
+    "percentToQualify": 42,
+    "difficulty": "Extreme Demon",  
+    "records": [     
+     {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=BJ7_Zk1QCrA&ab_channel=Lunar79Au%5BGD%5D",
+          "hz": 240,
+          "percent": 60
+     },
+     {
+          "user": "RedMurder",
+          "link": "https://www.youtube.com/watch?v=sRIAeKftuD8",
+          "hz": 240,
+          "percent": 100
+     }              
+    ]
+}

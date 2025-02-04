@@ -1,0 +1,26 @@
+{
+    "id": 490,
+    "password": "Free to Copy",
+    "name": "Glub Glub",
+    "author": "Splashy",
+    "creators": [],
+    "verifier": "Splashy",
+    "verification": "https://youtu.be/NmE9tTHMipQ",
+    "showcase": "https://youtu.be/BpA5eRgqcsY",
+    "percentToQualify": 100,
+    "difficulty": "Easy Demon",  
+    "records": [
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/d_nWatw0aiU",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

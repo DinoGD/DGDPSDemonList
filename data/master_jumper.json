@@ -1,0 +1,62 @@
+{
+    "id": 212,
+    "password": "Free to Copy",
+    "name": "Master Jumper",
+    "author": "mqlv",
+    "creators": [],
+    "verifier": "Dino",
+    "verification": "https://youtu.be/BpA5eRgqcsY",
+    "showcase": "https://youtu.be/BpA5eRgqcsY",
+    "percentToQualify": 100,
+    "difficulty": "Easy Demon",  
+    "records": [ 
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/O97IDHCFugo",
+          "hz": 360,
+          "percent": 100
+        },
+      {
+          "user": "CrabbyCrab101",
+          "link": "https://www.youtube.com/watch?v=t_x6pajW79A",
+          "hz": 240,
+          "percent": 100
+      },
+      {
+          "user": "StolenBurrito",
+          "link": "https://www.youtube.com/watch?v=MLnAfstOUCU",
+          "hz": 360,
+          "percent": 100
+      },
+      {
+          "user": "Splashy",
+          "link": "https://youtu.be/6Fy0Ey4x4yY",
+          "hz": 360,
+          "percent": 100
+      },
+        {
+          "user": "p0rtap0tty",
+          "link": "https://www.youtube.com/watch?v=dFYtX5BMpys",
+          "hz": 71,
+          "percent": 100
+      },
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
+          "hz": 240,
+          "percent": 100
+     },
+        {
+          "user": "KrazyBoy60",
+          "link": "https://youtu.be/wSKYTFobPvE",
+          "hz": 240,
+          "percent": 100
+     },
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/oVhL6Tf11lw",
+          "hz": 240,
+          "percent": 100
+     }
+    ]
+}

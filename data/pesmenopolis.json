@@ -1,0 +1,32 @@
+{
+    "id": 346,
+    "password": "Free to Copy",
+    "name": "PesmenoPolis",
+    "author": "BABA",
+    "creators": [],
+    "verifier": "BABA",
+    "verification": "https://youtu.be/Q84LJz8y_Xg",
+    "showcase": "https://youtu.be/ZI5c29t9MpE",
+    "percentToQualify": 100,
+    "difficulty": "Hard Demon",  
+    "records": [ 
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/O97IDHCFugo",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/Et2h9JLXTDA",
+          "hz": 240,
+          "percent": 100
+        },
+      {
+          "user": "StolenBurrito",
+          "link": "https://youtu.be/5AdkKGteYL4",
+          "hz": 360,
+          "percent": 100
+      }
+    ]
+}

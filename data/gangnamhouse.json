@@ -1,0 +1,26 @@
+{
+    "id": 435,
+    "password": "Free to Copy",
+    "name": "Gangnamhouse",
+    "author": "Stellarum",
+    "creators": [],
+    "verifier": "itzhealer",
+    "verification": "https://www.youtube.com/watch?v=MQBxyUs_IFk&t=13s&ab_channel=itzhealer",
+    "showcase": "https://youtu.be/XtDpqhtAy6k",
+    "percentToQualify": 56,
+    "difficulty": "Extreme Demon",  
+    "records": [  
+        {
+          "user": "SAINT NICHOLE",
+          "link": "https://www.youtube.com/watch?v=pWOdgAR2SFM",
+          "hz": 240,
+          "percent": 89
+        },
+        {
+          "user": "Dino",
+          "link": "https://www.youtube.com/watch?v=EWjbytHf8O4",
+          "hz": 360,
+          "percent": 79
+        }    
+    ]
+}

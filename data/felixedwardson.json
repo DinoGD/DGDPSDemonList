@@ -1,0 +1,26 @@
+{
+    "id": 460,
+    "password": "Free to Copy",
+    "name": "FelixEdwardson",
+    "author": "plerbyy",
+    "creators": [],
+    "verifier": "BABA",
+    "verification": "https://youtu.be/e1lHOu8N3LQ",
+    "showcase": "https://youtu.be/zeebTgqj-J0",
+    "percentToQualify": 100,
+    "difficulty": "Medium Demon",  
+    "records": [
+        {
+          "user": "nebnoob",
+          "link": "https://youtu.be/_I74bJGHlPs",
+          "hz": 360,
+          "percent": 100
+        },
+        {
+          "user": "Splashy",
+          "link": "https://youtu.be/9javWCQkG1Q",
+          "hz": 360,
+          "percent": 100
+        }
+    ]
+}

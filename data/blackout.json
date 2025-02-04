@@ -1,0 +1,19 @@
+{
+    "id": 261,
+    "password": "Free to Copy",
+    "name": "Blackout",
+    "author": "StolenBurrito",
+    "creators": [],
+    "verifier": "StolenBurrito",
+    "verification": "https://youtu.be/_qDBL8mTPGA",
+    "percentToQualify": 73,
+    "difficulty": "Insane Demon",  
+    "records": [
+      {
+          "user": "nebnoob",
+          "link": "https://youtu.be/_twlmlrRvuY",
+          "hz": 360,
+          "percent": 100
+     }   
+    ]
+}

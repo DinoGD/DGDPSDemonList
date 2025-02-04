@@ -21,7 +21,7 @@ header.dark {
     --color-background-hover: rgb(6, 0, 28);
     --color-on-background-hover: rgb(0, 255, 255);
     --color-primary: rgb(56, 100, 0);
-    --color-on-primary: rgb(0, 255, 255);
+    --color-on-primary: rgb(255, 255, 255);
     --color-extended: rgba(0, 255, 255, 0.75);
     --color-legacy: rgba(0, 255, 255, 0.5);
     --color-tags: rgb(0, 255, 255, 0.25);

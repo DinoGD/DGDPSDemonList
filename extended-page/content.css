@@ -39,13 +39,13 @@ p {
 }
 
 b {
-    color: rgba(0, 255, 255, 0.90);
+    color: rgba(255, 255, 255, 0.90);
 }
 
 .btn {
     background-color: rgb(33, 0, 65);
     border-radius: 10px;
-    color: rgb(0, 255, 255);
+    color: rgb(255, 255, 255);
     padding: 10px 15px;
     text-align: center;
     text-decoration: none;

@@ -9,6 +9,12 @@
     "showcase": "https://youtu.be/Cn-FwUS5C1A?si=qQD6z4Qzj84e4HSi",
     "percentToQualify": 100,
     "difficulty": "Hard Demon",    
-    "records": [ 
+    "records": [
+      {
+        "user": "kj07",
+        "link": "https://drive.google.com/file/d/1UrPaMNHMDDhPkrT7UQVPLp5flX9gbWWM/view?usp=sharing",
+        "hz": 360,
+        "percent": 100
+      }        
     ]
 }

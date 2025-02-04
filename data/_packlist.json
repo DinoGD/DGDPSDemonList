@@ -2,10 +2,10 @@
     {   
         "name": "Hell Pack",
         "levels": [
-            "luminescent",
-            "violence",
-            "casual"
+            "the_hell_hell",
+            "the_hell_dino",
+            "the_hell_pegs"
         ],
-        "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
+        "colour": "linear-gradient(to bottom, #ff0303 0%, #470101 100%)"
     }
 ]

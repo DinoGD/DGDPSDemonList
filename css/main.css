@@ -22,8 +22,8 @@ header.dark {
     --color-on-background-hover: rgb(0, 255, 255);
     --color-primary: rgb(56, 100, 0);
     --color-on-primary: rgb(255, 255, 255);
-    --color-extended: rgba(0, 255, 255, 0.75);
-    --color-legacy: rgba(0, 255, 255, 0.5);
+    --color-extended: rgba(255, 255, 255, 0.75);
+    --color-legacy: rgba(255 , 255, 255, 0.5);
     --color-tags: rgb(0, 255, 255, 0.25);
     --color-intpm: rgba(102, 0, 255, 0.25);
     --color-error: #de0000;

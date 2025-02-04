@@ -132,7 +132,7 @@ export default {
                         <iframe class="discord-box" src="https://discord.com/widget?id=866826240476053514&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     </div>
                     <div class="og" class="dark-bg">
-                        <p>Credit goes to <a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a> for letting us use his Demon List Template</p> 
+                        <p>Credit goes to <a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a> for letting us use his Demon List Template :)</p> 
                     </div>
                     <button class="btngl" @click="selected = 0">#1 Demon</button>
                     <button class="btngl" @click="selected = 75">Extended</button>

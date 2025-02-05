@@ -105,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">February 13 2024</p>
+                    <p class="extended">February 5, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 113">Khaotic Planet</button> has been placed at <b>#114</b>, above crestfallen and below Chromatic Meteor.<br><br>This change pushes DirtyPaws into the Legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 113">Show No Tears</button> has been <b>removed</b> from the list, due to being updated as an empty level.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 5">PERSEUS</button> to the #5 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

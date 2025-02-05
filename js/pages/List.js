@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 5, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 113">Show No Tears</button> has been <b>removed</b> from the list, due to being updated as an empty level.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 5">PERSEUS</button> to the #5 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 113">Show No Tears</button> has been <b>removed</b> from the list, due to being updated as an empty level.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 4">PERSEUS</button> to the #5 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

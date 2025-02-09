@@ -43,5 +43,14 @@
             "death_circlex"
         ],
         "colour": "#ff0000"
-    },      
+    },  
+    {   
+        "name": "Remake Pack IV",
+        "levels": [
+            "carmen_winstead",
+            "silentfunk",
+            "perseus"
+        ],
+        "colour": "#fb00ff"
+    },     
 ]

@@ -10,17 +10,23 @@
     "percentToQualify": 100,
     "difficulty": "Easy Demon",  
     "records": [
-        {
+      {
           "user": "nebnoob",
           "link": "https://youtu.be/d_nWatw0aiU",
           "hz": 360,
           "percent": 100
-        },
-        {
+      },
+      {
           "user": "SAINT NICHOLE",
           "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
           "hz": 240,
           "percent": 100
-     }
+      },
+      {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/vua1i-I9h9U",
+          "hz": 240,
+          "percent": 100
+      }          
     ]
 }

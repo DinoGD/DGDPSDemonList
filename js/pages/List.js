@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 9th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 4">Gates of the Gods</button> has been moved from <b>#12</b> to <b>#19</b>.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 17">Fake a Diego</button> to the #18 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 18">Gates of the Gods</button> has been moved from <b>#12</b> to <b>#19</b>.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 17">Fake a Diego</button> to the #18 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

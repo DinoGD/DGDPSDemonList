@@ -52,5 +52,41 @@
             "perseus"
         ],
         "colour": "#fb00ff"
-    } 
+    },
+    {   
+        "name": "Nine Circles Pack I",
+        "levels": [
+            "aquatic_circles",
+            "infernal_auroras",
+            "scatman_circles"
+        ],
+        "colour": "#001aff"
+    },
+    {   
+        "name": "Nine Circles Pack II",
+        "levels": [
+            "joshdeluxe_burger_redux",
+            "gates_of_the_gods",
+            "death_circlex"
+        ],
+        "colour": "#0080ff"
+    },
+    {   
+        "name": "Meme Pack",
+        "levels": [
+            "fin_x",
+            "the_orange",
+            "blue_deian"
+        ],
+        "colour": "#11ff00"
+    },
+    {   
+        "name": "Memory Pack",
+        "levels": [
+            "fake_a_diego",
+            "torture_chamber",
+            "flicker"
+        ],
+        "colour": "#2d2e2d"
+    }       
 ]

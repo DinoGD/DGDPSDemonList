@@ -105,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">February 5, 2025</p>
+                    <p class="extended">February 9th, 2025</p>
                     <br><br>
-                    <p>Show No Tears has been <b>removed</b> from the list, due to being updated as an empty level.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 4">PERSEUS</button> to the #5 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 4">Gates of the Gods</button> has been moved from <b>#12</b> to <b>#20</b>.<br><br>This change pushes <button class="btn-no-cover" @click="selected = 20">VIBRANT FRENZY</button> to the #21 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

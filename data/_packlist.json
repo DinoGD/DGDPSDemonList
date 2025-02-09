@@ -33,7 +33,7 @@
             "bright_blizzard",
             "mythic"
         ],
-        "colour": "linear-gradient(to bottom, #ff8c00 0%, #ff5500 100%)"
+        "colour": "linear-gradient(to bottom, #ff8c00 0%, #ff3700 100%)"
     },
     {   
         "name": "Remake Pack III",
@@ -42,7 +42,7 @@
             "gangnamhouse",
             "death_circlex"
         ],
-        "colour": "#ff0000"
+        "colour": "linear-gradient(to bottom, #ff0000 0%, #ff008c 100%)"
     },  
     {   
         "name": "Remake Pack IV",

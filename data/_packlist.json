@@ -24,7 +24,7 @@
             "figures_v2",
             "untitled_grass"
         ],
-        "colour": "#fffb0a"
+        "colour": "linear-gradient(to bottom, #fffb0a 0%, #8cff00 100%)"
     },
     {   
         "name": "Remake Pack II",

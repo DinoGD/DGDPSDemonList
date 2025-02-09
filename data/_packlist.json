@@ -25,5 +25,23 @@
             "untitled_grass"
         ],
         "colour": "#fffb0a"
-    }     
+    },
+    {   
+        "name": "Remake Pack II",
+        "levels": [
+            "ligm8o",
+            "bright_blizzard",
+            "mythic"
+        ],
+        "colour": "#ff8c00"
+    },
+    {   
+        "name": "Remake Pack III",
+        "levels": [
+            "buffstep_but_harder",
+            "gangnamhouse",
+            "death_circlex"
+        ],
+        "colour": "#ff0000"
+    },      
 ]

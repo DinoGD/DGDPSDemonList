@@ -10,11 +10,17 @@
     "percentToQualify": 69,
     "difficulty": "Extreme Demon",  
     "records": [
-        {
+     {
           "user": "SAINT NICHOLE",
           "link": "https://youtu.be/pmuUmAo0O1Q",
           "hz": 240,
           "percent": 100
-     }
+     },
+      {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/7AH4iRijnxc",
+          "hz": 240,
+          "percent": 100
+     }       
     ]
 }

@@ -33,7 +33,7 @@
             "bright_blizzard",
             "mythic"
         ],
-        "colour": "#ff8c00"
+        "colour": "linear-gradient(to bottom, #ff8c00 0%, #ff5500 100%)"
     },
     {   
         "name": "Remake Pack III",

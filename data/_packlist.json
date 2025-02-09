@@ -42,7 +42,7 @@
             "gangnamhouse",
             "death_circlex"
         ],
-        "colour": "linear-gradient(to bottom, #ff0000 0%, #ff008c 100%)"
+        "colour": "linear-gradient(to bottom, #ff0000 0%, #ff00dd 100%)"
     },  
     {   
         "name": "Remake Pack IV",
@@ -51,7 +51,7 @@
             "silentfunk",
             "perseus"
         ],
-        "colour": "#fb00ff"
+        "colour": "linear-gradient(to bottom, #fb00ff 0%, #8000ff 100%)"
     },
     {   
         "name": "Nine Circles Pack I",

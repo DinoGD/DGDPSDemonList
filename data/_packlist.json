@@ -7,5 +7,14 @@
             "the_hell_pegs"
         ],
         "colour": "linear-gradient(to bottom, #ff0303 0%, #470101 100%)"
-    }
+    },
+    {   
+        "name": "2024 Top 3 Pack",
+        "levels": [
+            "violence",
+            "casual",
+            "rock_and_roll"
+        ],
+        "colour": "#330300"
+    }    
 ]

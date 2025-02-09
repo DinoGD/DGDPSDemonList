@@ -16,5 +16,14 @@
             "rock_and_roll"
         ],
         "colour": "#330300"
-    }    
+    },
+    {   
+        "name": "Remake Pack I",
+        "levels": [
+            "deathmath",
+            "figures_v2",
+            "untitled_grass"
+        ],
+        "colour": "#fffb0a"
+    }     
 ]

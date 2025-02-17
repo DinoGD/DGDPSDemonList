@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 9th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 18">BackonDafartmeds</button> has been placed at <b>#11</b>.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">xStep Remake</button> to the Extended List.</p>
+                    <p><button class="btn-no-cover" @click="selected = 10">BackonDafartmeds</button> has been placed at <b>#11</b>.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">xStep Remake</button> to the Extended List.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

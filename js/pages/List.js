@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 9th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 10">BackonDafartmeds</button> has been placed at <b>#11</b>.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">xStep Remake</button> to the Extended List.</p>
+                    <p><button class="btn-no-cover" @click="selected = 0">Luminescent</button> and <button class="btn-no-cover" @click="selected = 1">VioLence</button> have been swapped.<br><br>VioLence is now at the #1 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

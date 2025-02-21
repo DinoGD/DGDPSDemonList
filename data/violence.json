@@ -9,12 +9,18 @@
     "showcase": "https://youtu.be/UZ6F9QgKquQ",
     "percentToQualify": 58,
     "difficulty": "Extreme Demon",    
-    "records": [  
+    "records": [
+     {
+          "user": "nebnoob",
+          "link": "https://youtu.be/4rFGN7antGw",
+          "hz": 240,
+          "percent": 100
+        }
      {
           "user": "RedMurder",
           "link": "https://www.youtube.com/watch?v=rBWAxj5KoJw",
           "hz": 360,
           "percent": 77
-        } 
+        }
     ]
 }

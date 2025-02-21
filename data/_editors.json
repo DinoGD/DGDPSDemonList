@@ -5,8 +5,13 @@
         "link": "https://www.youtube.com/@d1nooo17"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "TheRealCave",
         "link": "https://www.youtube.com/@TheRealCave_"
+    },
+    {
+        "role": "helper",
+        "name": "RedMurder",
+        "link": "https://www.youtube.com/@RedMurder"
     }    
 ]

@@ -20,6 +20,18 @@
           "link": "https://www.youtube.com/watch?v=sRIAeKftuD8",
           "hz": 240,
           "percent": 100
-     }              
+     },     
+    {
+          "user": "nebnoob",
+          "link": "https://youtu.be/Vjttlzoiq6I",
+          "hz": 240,
+          "percent": 100
+     },
+    {
+          "user": "TheRealCave",
+          "link": "https://youtu.be/yssxQojwIvA",
+          "hz": 240,
+          "percent": 100
+     }
     ]
 }

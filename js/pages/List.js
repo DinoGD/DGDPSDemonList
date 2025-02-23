@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 19th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 1">Luminescent</button> and <button class="btn-no-cover" @click="selected = 0">VioLence</button> have been swapped.<br><br>VioLence is now at the #1 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 78">Sikiki</button> has been placed at the #79 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "difficulty": "Insane Demon",  
     "records": [  
+     {
+          "user": "nebnoob",
+          "link": "https://youtu.be/XqFY1ynXsWA",
+          "hz": 240,
+          "percent": 100
+     }        
     ]
 }

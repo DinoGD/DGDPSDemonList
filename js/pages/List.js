@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 24th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 24">Blast Processing v6</button> has been placed at the #25 spot.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">Crystalline</button> to the Legacy List.</p>
+                    <p><button class="btn-no-cover" @click="selected = 24">Blast Processing v6</button> has been placed at the #25 spot.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">Crystalline</button> to the Extended List.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

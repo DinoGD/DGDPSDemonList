@@ -6,12 +6,17 @@
     },
     {
         "role": "admin",
+        "name": "nebnoob",
+        "link": "https://www.youtube.com/@nebnoobgeometrydash1524"
+    },
+    {
+        "role": "helper",
         "name": "TheRealCave",
         "link": "https://www.youtube.com/@TheRealCave_"
-    },
+    },    
     {
         "role": "helper",
         "name": "RedMurder",
         "link": "https://www.youtube.com/@RedMurder"
-    }    
+    }     
 ]

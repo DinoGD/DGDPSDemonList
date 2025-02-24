@@ -105,9 +105,9 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">February 23rd, 2025</p>
+                    <p class="extended">February 24th, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 78">Sikiki</button> has been placed at the #79 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 24">Blast Processing v6</button> has been placed at the #25 spot.<br><br>This pushes <button class="btn-no-cover" @click="selected = 75">Crystalline</button> to the Legacy List.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>

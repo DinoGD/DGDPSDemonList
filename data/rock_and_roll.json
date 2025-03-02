@@ -9,7 +9,13 @@
     "showcase": "https://youtu.be/SeIuZHgrvtM?si=3vrpW6R0se0i7BuH",
     "percentToQualify": 68,
     "difficulty": "Extreme Demon",    
-    "records": [  
+    "records": [ 
+      {
+        "user": "nebnoob",
+        "link": "https://youtu.be/T2-KOFNDzRk",
+        "hz": 240,
+        "percent": 100
+      },
       {
         "user": "TheRealCave",
         "link": "https://drive.google.com/file/d/1phdmH5KyMa74oYMfyjRacsrjLwheS8i9/view",

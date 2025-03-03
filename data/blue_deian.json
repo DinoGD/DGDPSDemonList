@@ -8,6 +8,12 @@
     "verification": "https://youtu.be/lOHwLwrwfTw?si=3Wi8DccqlU9D5yxd",
     "percentToQualify": 70,
     "difficulty": "Extreme Demon",  
-    "records": [     
+    "records": [ 
+    {
+          "user": "nebnoob",
+          "link": "https://youtu.be/nb4lljWgutU",
+          "hz": 240,
+          "percent": 100
+     }
     ]
 }

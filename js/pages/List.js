@@ -105,7 +105,7 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">March 2nd, 2025</p>
+                    <p class="extended">March 3rd, 2025</p>
                     <br><br>
                     <p><button class="btn-no-cover" @click="selected = 16">Fin X</button> has been moved from #26 to #17.<br><br>This pushes <button class="btn-no-cover" @click="selected = 17">The Hell Dino</button> to #18 spot.</p>
                     </div>

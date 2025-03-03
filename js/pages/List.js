@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">March 2nd, 2025</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 3">Luminescent</button> has been moved from #2 to #4.<br><br>This pushes <button class="btn-no-cover" @click="selected = 2">rock and roll</button> to #3 spot.</p>
+                    <p><button class="btn-no-cover" @click="selected = 16">Fin X</button> has been moved from #26 to #17.<br><br>This pushes <button class="btn-no-cover" @click="selected = 17">The Hell Dino</button> to #18 spot.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
